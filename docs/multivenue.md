@@ -44,7 +44,7 @@ $ sudo systemctl enable micboard-venue-a.service
 
 ## Configure Landing Page
 ```
-$ cp static/multivenue-template.html static/multivenue.html
+$ cp static/multivenue_template.html static/multivenue.html
 ```
 
 Add your venues to the page
